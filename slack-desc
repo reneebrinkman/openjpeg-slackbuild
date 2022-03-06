@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|' on
+# the right side marks the last column you can put a character in.  You must make
+# exactly 11 lines for the formatting to be correct.  It's also customary to
+# leave one space after the ':'.
+
+       |-----handy-ruler------------------------------------------------------|
+openjpeg: openjpeg (an open-source JPEG 2000 codec written in C language)
+openjpeg:
+openjpeg: It has been developed in order to promote the use of JPEG 2000, a
+openjpeg: still-image compression standard from the Joint Photographic Experts
+openjpeg: Group (JPEG). Since May 2015, it is officially recognized by ISO/IEC
+openjpeg: and ITU-T as a JPEG 2000 Reference Software.
+openjpeg:
+openjpeg: The code is released under the 2-clauses BSD license.
+openjpeg:
+openjpeg: https://openjpeg.org/
+openjpeg:
