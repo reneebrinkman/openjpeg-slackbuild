@@ -8,3 +8,14 @@ and ITU-T as a JPEG 2000 Reference Software.
 The code is released under the 2-clauses BSD license.
 
 https://openjpeg.org/
+
+This is a SlackBuild script, designed to package this software for Slackware Linux.
+
+Report any issues with the script itself to Renee Brinkman at reneebrinkman91@gmail.com.
+
+Usage (with the source tarball in the same directory):
+
+# ./openjpeg.SlackBuild
+# installpkg /tmp/openjpeg-2.4.0-x86_64-1_SBo.txz
+
+That's it!
